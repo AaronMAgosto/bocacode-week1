@@ -26,3 +26,11 @@ if (fruit === 'banana') {
 } else if (fruit === 'apple') {
     console.log ('red')
 }
+
+function getSum (param1, param2) {
+   const totalSum = param1 + param2 
+   return totalSum 
+}
+
+const result = getSum (4, 5)
+console.log(result)
