@@ -1,4 +1,4 @@
-// const pet ='dog'
+ // const pet ='dog'
 
 // switch(pet) {
 //     case "cat":
